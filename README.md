@@ -2,4 +2,4 @@
 
 This is a diagram.
 
-![diagram](/diagram.drawio.png)
+![diagram](diagrams/diagram.drawio.png)
