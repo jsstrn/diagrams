@@ -1,3 +1,5 @@
 # Diagrams
 
-Diagram ![diagram](/diagram.drawio.png)
+This is a diagram.
+
+![diagram](/diagram.drawio.png)
